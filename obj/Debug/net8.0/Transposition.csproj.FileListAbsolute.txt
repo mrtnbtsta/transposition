@@ -1,0 +1,44 @@
+D:\csharp projects\Transposition\bin\Debug\net8.0\Transposition.exe
+D:\csharp projects\Transposition\bin\Debug\net8.0\Transposition.deps.json
+D:\csharp projects\Transposition\bin\Debug\net8.0\Transposition.runtimeconfig.json
+D:\csharp projects\Transposition\bin\Debug\net8.0\Transposition.dll
+D:\csharp projects\Transposition\bin\Debug\net8.0\Transposition.pdb
+D:\csharp projects\Transposition\obj\Debug\net8.0\Transposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp projects\Transposition\obj\Debug\net8.0\Transposition.AssemblyInfoInputs.cache
+D:\csharp projects\Transposition\obj\Debug\net8.0\Transposition.AssemblyInfo.cs
+D:\csharp projects\Transposition\obj\Debug\net8.0\Transposition.csproj.CoreCompileInputs.cache
+D:\csharp projects\Transposition\obj\Debug\net8.0\Transposition.dll
+D:\csharp projects\Transposition\obj\Debug\net8.0\refint\Transposition.dll
+D:\csharp projects\Transposition\obj\Debug\net8.0\Transposition.pdb
+D:\csharp projects\Transposition\obj\Debug\net8.0\Transposition.genruntimeconfig.cache
+D:\csharp projects\Transposition\obj\Debug\net8.0\ref\Transposition.dll
+D:\transposition_cipher\bin\Debug\net8.0\Transposition.exe
+D:\transposition_cipher\bin\Debug\net8.0\Transposition.deps.json
+D:\transposition_cipher\bin\Debug\net8.0\Transposition.runtimeconfig.json
+D:\transposition_cipher\bin\Debug\net8.0\Transposition.dll
+D:\transposition_cipher\bin\Debug\net8.0\Transposition.pdb
+D:\transposition_cipher\obj\Debug\net8.0\Transposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\transposition_cipher\obj\Debug\net8.0\Transposition.AssemblyInfoInputs.cache
+D:\transposition_cipher\obj\Debug\net8.0\Transposition.AssemblyInfo.cs
+D:\transposition_cipher\obj\Debug\net8.0\Transposition.csproj.CoreCompileInputs.cache
+D:\transposition_cipher\obj\Debug\net8.0\Transposition.sourcelink.json
+D:\transposition_cipher\obj\Debug\net8.0\Transposition.dll
+D:\transposition_cipher\obj\Debug\net8.0\refint\Transposition.dll
+D:\transposition_cipher\obj\Debug\net8.0\Transposition.pdb
+D:\transposition_cipher\obj\Debug\net8.0\Transposition.genruntimeconfig.cache
+D:\transposition_cipher\obj\Debug\net8.0\ref\Transposition.dll
+D:\Transposition\bin\Debug\net8.0\Transposition.exe
+D:\Transposition\bin\Debug\net8.0\Transposition.deps.json
+D:\Transposition\bin\Debug\net8.0\Transposition.runtimeconfig.json
+D:\Transposition\bin\Debug\net8.0\Transposition.dll
+D:\Transposition\bin\Debug\net8.0\Transposition.pdb
+D:\Transposition\obj\Debug\net8.0\Transposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transposition\obj\Debug\net8.0\Transposition.AssemblyInfoInputs.cache
+D:\Transposition\obj\Debug\net8.0\Transposition.AssemblyInfo.cs
+D:\Transposition\obj\Debug\net8.0\Transposition.csproj.CoreCompileInputs.cache
+D:\Transposition\obj\Debug\net8.0\Transposition.sourcelink.json
+D:\Transposition\obj\Debug\net8.0\Transposition.dll
+D:\Transposition\obj\Debug\net8.0\refint\Transposition.dll
+D:\Transposition\obj\Debug\net8.0\Transposition.pdb
+D:\Transposition\obj\Debug\net8.0\Transposition.genruntimeconfig.cache
+D:\Transposition\obj\Debug\net8.0\ref\Transposition.dll
